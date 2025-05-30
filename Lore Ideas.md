@@ -2,7 +2,7 @@
 ## You Are the Invading Alien
 - We destroyed planet earth and you're on a mission to make this new planet we've found suitable for human life
 - Both sides of this game are representations of fascism:
-  1. Humanity has basically killed it's planet and crippled its own species in doing so
+  1. Humanity has basically killed it's planet and crippled its own species in doing so.  So basically, to this planet, we're the terrifying invading aliens that ruined our planet and have come to colonize this new one
   2. This Kudzu planet has no diversity of life - there's some micro-organisms, but mostly the surface is covered by the body and appendages of one Mega-Flora entity that has choked out all other life
   3. You must become the revolutionary that fights for diversity of life because it's the only way to save humanity and this new planet from the Earthlings and the Kudzu that has taken it over before you've arrived
 
